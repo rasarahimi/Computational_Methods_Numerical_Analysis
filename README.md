@@ -1,6 +1,5 @@
 # Computational Methods — Numerical Analysis (Python)
 
-This repository collects my Python implementations and numerical experiments developed for **MSN 514: Computational Methods for Materials Science and Complex Systems** (Bilkent University).
 
 The goal of this repository is to document and present key numerical methods in a clean, reproducible, and portfolio-grade format. Each topic is organized as a self-contained mini-project with:
 - a Jupyter notebook implementation (`.ipynb`)
@@ -12,7 +11,7 @@ The goal of this repository is to document and present key numerical methods in 
 ## Contents
 
 ### 1) Time Integration of Linear Dynamical Systems  
-**Folder:** `time-integration/`
+**Folder:** `time-integration-of-linear-dynamical systems/`
 
 A numerical study of time integration methods for a multi-degree-of-freedom mechanical system (three-mass spring model). The project compares:
 - **Velocity Verlet integration** (explicit time stepping)
